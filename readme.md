@@ -4,7 +4,7 @@ https://my.telegram.org/apps
 
 [Telegram]  
 app_name = Название    
-api_id = Код 
+api_id = Код  
 api_hash = Код  
 username = пользователь ТГ  
 API_TOKEN = токен бота  
